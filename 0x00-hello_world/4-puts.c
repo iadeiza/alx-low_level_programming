@@ -6,9 +6,8 @@
  */
 int main(void)
 {
-	char Request[] = "\"Programming is like building a multilingual puzzle";
 
-	puts(Request);
+	puts("\"Programming is like building a multilingual puzzle");
 
 	return (0);
 }
