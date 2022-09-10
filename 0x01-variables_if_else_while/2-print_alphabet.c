@@ -1,7 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+/**
+ * main - entrypoint
+ *
+ * description: prints alphabets
+ *
+ * return: always 0
+ */
 
 
 int main(void)
@@ -11,6 +17,7 @@ int main(void)
 	for	(i = 'a'; i <= 'z'; i++)
 	{
 		putchar(i);
+		putchar('\n');
 	}
 	return (0);
 }
