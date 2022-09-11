@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - entrypoint
+ * main - startpoint
  *
  * description: prints alphabets
  *
@@ -10,14 +10,14 @@
  */
 
 
-int main(void)
+char main(void)
 {
 	char i;
 
 	for	(i = 'a'; i <= 'z'; i++)
 	{
 		putchar(i);
-		putchar('\n');
 	}
-	return (0);
+	putchar('\n');
+return (0);
 }
