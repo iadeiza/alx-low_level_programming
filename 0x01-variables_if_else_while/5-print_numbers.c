@@ -8,7 +8,7 @@
  *
  * Description: print integers
  *
- * return: Always return 0 (success)
+ * Return: Always return 0 (success)
  *
  */
 
