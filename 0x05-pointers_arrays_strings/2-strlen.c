@@ -2,7 +2,7 @@
 
 /**
  * _strlen - Calculates the length of a string
- * @str: pointer varable
+ * @s: pointer varable
  * Return: Returns length
  */
 
