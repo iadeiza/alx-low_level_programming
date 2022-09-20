@@ -2,8 +2,8 @@
 
 /**
  * swap_int - function to collects two integers
- * @*a: the first integer
- * @*b: the second integer
+ * @x: the first integer
+ * @y: the second integer
  * Return: Always 0
  */
 
